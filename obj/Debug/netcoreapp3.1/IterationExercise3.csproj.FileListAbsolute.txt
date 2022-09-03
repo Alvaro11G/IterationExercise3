@@ -1,0 +1,14 @@
+C:\Users\agarc\source\repos\IterationExercise3\IterationExercise3\bin\Debug\netcoreapp3.1\IterationExercise3.exe
+C:\Users\agarc\source\repos\IterationExercise3\IterationExercise3\bin\Debug\netcoreapp3.1\IterationExercise3.deps.json
+C:\Users\agarc\source\repos\IterationExercise3\IterationExercise3\bin\Debug\netcoreapp3.1\IterationExercise3.runtimeconfig.json
+C:\Users\agarc\source\repos\IterationExercise3\IterationExercise3\bin\Debug\netcoreapp3.1\IterationExercise3.runtimeconfig.dev.json
+C:\Users\agarc\source\repos\IterationExercise3\IterationExercise3\bin\Debug\netcoreapp3.1\IterationExercise3.dll
+C:\Users\agarc\source\repos\IterationExercise3\IterationExercise3\bin\Debug\netcoreapp3.1\IterationExercise3.pdb
+C:\Users\agarc\source\repos\IterationExercise3\IterationExercise3\obj\Debug\netcoreapp3.1\IterationExercise3.csproj.AssemblyReference.cache
+C:\Users\agarc\source\repos\IterationExercise3\IterationExercise3\obj\Debug\netcoreapp3.1\IterationExercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agarc\source\repos\IterationExercise3\IterationExercise3\obj\Debug\netcoreapp3.1\IterationExercise3.AssemblyInfoInputs.cache
+C:\Users\agarc\source\repos\IterationExercise3\IterationExercise3\obj\Debug\netcoreapp3.1\IterationExercise3.AssemblyInfo.cs
+C:\Users\agarc\source\repos\IterationExercise3\IterationExercise3\obj\Debug\netcoreapp3.1\IterationExercise3.csproj.CoreCompileInputs.cache
+C:\Users\agarc\source\repos\IterationExercise3\IterationExercise3\obj\Debug\netcoreapp3.1\IterationExercise3.dll
+C:\Users\agarc\source\repos\IterationExercise3\IterationExercise3\obj\Debug\netcoreapp3.1\IterationExercise3.pdb
+C:\Users\agarc\source\repos\IterationExercise3\IterationExercise3\obj\Debug\netcoreapp3.1\IterationExercise3.genruntimeconfig.cache
